@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shodmon
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on video games
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: sbabakhanzoda@gmail.com
 
 - I studied Computer Science at Northern Virginia Community College and George Mason University. Now I am continuing on that path!
