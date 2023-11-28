@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shodmon
 - 👀 I’m a QA Automation Engineer
-- 🌱 Java, Maven, TestNG, 
-- 💞️ I’m looking to collaborate on Java, Python and JavaScript projects
+- 🌱 Java, Manual Testing, Automation Testing, Maven, Selenium, TestNG, JUnit, JDBC, Jenkins
+- 💞️ I’m looking to collaborate on Java, QA, Python and JavaScript projects
 - 📫 How to reach me: sbabakhanzoda@gmail.com
 
 - I studied Computer Science at Northern Virginia Community College and George Mason University. Also I studied at Neotech Academy bootcamp for QA Automation Engineer role.
