@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shodmon
 - 🌱 Java, JavaScript
-- 💞️ I’m looking to collaborate on Java, QA, Python and JavaScript projects
+- 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me: sbabakhanzoda@gmail.com
 
 - I studied Computer Science at Northern Virginia Community College and George Mason University. Also I studied at Neotech Academy bootcamp for QA Automation Engineer role. Then, I studied JavaScript at Mate Academy.
