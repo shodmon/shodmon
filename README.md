@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shodmon
-- 🌱 Java, Python
+- 🌱 Python, Java
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: sbabakhanzoda@gmail.com
 
