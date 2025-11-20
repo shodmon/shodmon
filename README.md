@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shodmon
-- 🌱 Python, Java
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 Java
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: sbabakhanzoda@gmail.com
 
 <!---
